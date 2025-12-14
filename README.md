@@ -1,4 +1,4 @@
-## AI is cool i guess🤖
+## Hello, world! 👾👋
 
 <!--
 **finnbusse/finnbusse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
